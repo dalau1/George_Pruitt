@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import tkinter as tk
 from tkinter import filedialog
 import csv
-
+# 
 # Function to open file dialog and read CSV file
 def open_file():
     root = tk.Tk()
